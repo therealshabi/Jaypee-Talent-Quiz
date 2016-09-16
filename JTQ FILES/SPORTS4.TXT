@@ -1,0 +1,26 @@
+Q. What is the Highest Individual score in an IPL match ?
+1. 158
+2. 173*
+3. 175*
+4. 183
+Q. Who is the First Indian Tennis Player to Achieve Rank 1 in Doubles ?
+1. Mahesh Bhupati
+2. Leander Paes
+3. Sania Mirza
+4. Somdev Devvarman
+Q. Which Sports is Michael Phelps associated with ?
+1. Polo
+2. Swimming
+3. Squash
+4. Cricket
+Q. What is a Chinaman bowler ?
+1. Left Arm Leg Spinner
+2. Left Arm Off Spinner
+3. Right Arm Leg Break
+4. Left Arm Leg Break
+Q. Who is the captain of Indian Kabaddi Team ?
+1. Rajesh Kumar
+2. Ramesh Kumar
+3. Rakesh Kumar
+4. Meiyang Chang
+  
